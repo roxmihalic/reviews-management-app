@@ -1,0 +1,7 @@
+@use "sass:meta";
+@import "_variables";
+
+.test-class {
+	color: $primary;
+	background : $secondary;
+}
